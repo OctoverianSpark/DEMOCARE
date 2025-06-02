@@ -30,7 +30,6 @@ export default function Index() {
       <button className='green-btn' onClick={() => startSimulator()}>Iniciar Simulador</button>
 
 
-      <button type="button" className='blue-btn log-in-btn' onClick={() => location.href = '/admin/login'}> Iniciar Sesion</button>
 
 
     </div>
